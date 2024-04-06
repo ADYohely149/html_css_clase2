@@ -1,0 +1,14 @@
+/*selector por etiqueta*/
+/*section h2 {
+    color: rgb(62, 170, 134);
+
+
+}*/
+/*selector con clases*/
+.azul{
+    color: rgb(131, 117, 55);
+}
+/*selector con id*/
+#verde{
+    color: blueviolet;
+}
